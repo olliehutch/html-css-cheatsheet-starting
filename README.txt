@@ -1,0 +1,2 @@
+This was a really simple project just trying to grasp the basics of HTML, CSS and working on my local computer rather than on the Codecademy server.
+It was also another great chance to practise uploading things to GitHub.
